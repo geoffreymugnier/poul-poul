@@ -1,7 +1,12 @@
 # poul-poul
 I had 15 minutes free.
 
-# Rules
+# Installation
+`npm install`
+`npm run dev` for dev server
+`npm run preview` to preview your `npm run build` 
+
+# Game rules
 
 This guy explains it well :
 https://www.youtube.com/watch?v=FiV4xOTW02Q
